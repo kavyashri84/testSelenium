@@ -11,6 +11,7 @@ public class BasicMathTest {
 		System.out.println(bmlogic.subNum(num1, num2));
 		System.out.println(bmlogic.mplyNum(num1, num2));
 		System.out.println(bmlogic.divNum(num1, num2));
+		
 	}
 
 }
